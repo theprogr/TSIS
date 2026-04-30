@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ali",
+        "email": "ali@gmail.com",
+        "birthday": "2005-05-10",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87071112233",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Bob",
+        "email": "bob@work.com",
+        "birthday": "2001-03-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87075556677",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Mom",
+        "email": "mom@gmail.com",
+        "birthday": "1980-01-15",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87078889900",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "ss",
+        "email": "asam@gmail.com",
+        "birthday": null,
+        "group": "work",
+        "phones": [
+            {
+                "phone": "87716160225",
+                "type": "home"
+            }
+        ]
+    }
+]
